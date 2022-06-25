@@ -1,4 +1,4 @@
-# reviews-api
+# 🍴 reviews-api
 
 ## 📃 Description:
 A simple RESTful API for leaving reviews at restaurants using Postgres.
